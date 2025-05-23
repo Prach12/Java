@@ -1,0 +1,308 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Boolean_Matrix",
+            "request": "launch",
+            "mainClass": "Boolean_Matrix",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Bubble_Sort",
+            "request": "launch",
+            "mainClass": "Bubble_Sort",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "DigitalLockcodeChallenge",
+            "request": "launch",
+            "mainClass": "DigitalLockcodeChallenge",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci_Series",
+            "request": "launch",
+            "mainClass": "Fibonacci_Series",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "HalfRotateArrayLeft",
+            "request": "launch",
+            "mainClass": "HalfRotateArrayLeft",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "HalfRotateArrayRight",
+            "request": "launch",
+            "mainClass": "HalfRotateArrayRight",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "InsertElement",
+            "request": "launch",
+            "mainClass": "InsertElement",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "InsertElementAtIndex",
+            "request": "launch",
+            "mainClass": "InsertElementAtIndex",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "K_Largest_Smallest_ArrayEle",
+            "request": "launch",
+            "mainClass": "K_Largest_Smallest_ArrayEle",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Main2D",
+            "request": "launch",
+            "mainClass": "Main2D",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Marbles",
+            "request": "launch",
+            "mainClass": "Marbles",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Matrix_2D",
+            "request": "launch",
+            "mainClass": "Matrix_2D",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Minor2D",
+            "request": "launch",
+            "mainClass": "Minor2D",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "RedLightGreenLightGame",
+            "request": "launch",
+            "mainClass": "RedLightGreenLightGame",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Remove_Vowels",
+            "request": "launch",
+            "mainClass": "Remove_Vowels",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Replace_Ele_by_RightSideEle_Sum",
+            "request": "launch",
+            "mainClass": "Replace_Ele_by_RightSideEle_Sum",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Replace_Ele_by_leftSideEle_Sum",
+            "request": "launch",
+            "mainClass": "Replace_Ele_by_leftSideEle_Sum",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Replace_Vowel",
+            "request": "launch",
+            "mainClass": "Replace_Vowel",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Alphabet",
+            "request": "launch",
+            "mainClass": "Reverse_Alphabet",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_AlphabetOnly",
+            "request": "launch",
+            "mainClass": "Reverse_AlphabetOnly",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_the_digit_num",
+            "request": "launch",
+            "mainClass": "Reverse_the_digit_num",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "RightRotation",
+            "request": "launch",
+            "mainClass": "RightRotation",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "RotateArrayLeft",
+            "request": "launch",
+            "mainClass": "RotateArrayLeft",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "RotateArrayRight",
+            "request": "launch",
+            "mainClass": "RotateArrayRight",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "SpecialCharacterCount",
+            "request": "launch",
+            "mainClass": "SpecialCharacterCount",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "StringAndInteger",
+            "request": "launch",
+            "mainClass": "StringAndInteger",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "String_Digits",
+            "request": "launch",
+            "mainClass": "String_Digits",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "String_Methods",
+            "request": "launch",
+            "mainClass": "String_Methods",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "String_to_integer",
+            "request": "launch",
+            "mainClass": "String_to_integer",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "compute",
+            "request": "launch",
+            "mainClass": "compute",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "factorial_of_num",
+            "request": "launch",
+            "mainClass": "factorial_of_num",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "print_nums_from_1",
+            "request": "launch",
+            "mainClass": "print_nums_from_1",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "split_char_based_firstOcurrence",
+            "request": "launch",
+            "mainClass": "split_char_based_firstOcurrence",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "string_equals",
+            "request": "launch",
+            "mainClass": "string_equals",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_N_num",
+            "request": "launch",
+            "mainClass": "sum_of_N_num",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_digit_of_number",
+            "request": "launch",
+            "mainClass": "sum_of_digit_of_number",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_element_array",
+            "request": "launch",
+            "mainClass": "sum_of_element_array",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_row_Matrix",
+            "request": "launch",
+            "mainClass": "sum_of_row_Matrix",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "unique",
+            "request": "launch",
+            "mainClass": "unique",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
+            "name": "unique_array_ele",
+            "request": "launch",
+            "mainClass": "unique_array_ele",
+            "projectName": "github_7e06268d"
+        }
+    ]
+}
