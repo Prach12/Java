@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "palindrome_using_recursion",
+            "request": "launch",
+            "mainClass": "palindrome_using_recursion",
+            "projectName": "github_7e06268d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
